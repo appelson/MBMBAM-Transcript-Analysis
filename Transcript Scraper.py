@@ -12,7 +12,7 @@ transcript_page_url = 'https://maximumfun.org/podcasts/my-brother-my-brother-and
 current_directory = os.getcwd()
 
 # Specify the subfolder name where you want to save the downloads
-subfolder_name = "MBMBAM Transcripts"
+subfolder_name = "Transcripts"
 
 # Combine the current directory with the subfolder to create the full path
 download_folder = os.path.join(current_directory, subfolder_name)
