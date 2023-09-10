@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Specify the subfolder name defined above
-subfolder_name = "MBMBAM Transcripts"
+subfolder_name = "Transcripts"
 
 # Construct the full path for the subfolder
 subfolder_path = os.path.join(os.getcwd(), subfolder_name)
